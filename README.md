@@ -1,0 +1,2 @@
+# Commerce
+Segmentation of client
